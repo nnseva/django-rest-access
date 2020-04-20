@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/nnseva/django-rest-access.svg?branch=master)](https://travis-ci.org/nnseva/django-rest-access)
+[![Build Status](https://travis-ci.com/nnseva/django-rest-access.svg)](https://travis-ci.com/nnseva/django-rest-access)
 
 # Django-REST-Access
 
